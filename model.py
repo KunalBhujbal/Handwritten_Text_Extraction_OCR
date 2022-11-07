@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  1 13:00:37 2019
 
-@author: tornado
+@author: Kunal Bhujbal
 """
 from keras.layers import TimeDistributed, Activation, Dense, Input, Bidirectional, LSTM, Masking, GaussianNoise
 from keras.layers import Conv2D, MaxPooling2D, Reshape, Flatten, Dense
